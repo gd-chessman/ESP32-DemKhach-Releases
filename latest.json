@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/gd-chessman/ESP32-DemKhach-Releases/releases/download/v1.0.5/esp32-dem-khach.ino.bin",
-  "notes": "Sửa treo API: tự kết nối lại Wi-Fi, luôn retry sau lỗi (không dừng sau 4 lần), hủy inflight quá hạn."
+  "version": "1.0.6",
+  "url": "https://github.com/gd-chessman/ESP32-DemKhach-Releases/releases/download/v1.0.6/esp32-dem-khach.ino.bin",
+  "notes": "AP DemKhach luôn bật (kể cả khi Wi-Fi quán rớt); watchdog 15s khôi phục softAP."
 }
